@@ -2,13 +2,17 @@ What iss Virtualization??
 One computer does job of multiple computer.
 one computer runs multiple os parallely
 
-Life before Virtualization
+Life before Virtualization:
+- We had to buy separate hardware for each OS (Windows, Linux, Mac)
+- Each OS was installed on a different hard drive and ran in its own environment
+- Users could not use the same resources at  the same time - they were isolated from one another
 # To Run App/Service we need servers
 # Physiscal Computer (Server in Datacenter)
 # One Service - One Server (Isolation)
 # Servers are over Provisioned
 # Server resource are under utilized
 # Huge Cap Ex & Op Ex
+
 Virtual Machine vs Physical Machine
 VM is an abstraction layer between the physical.
 It allows you to run a guest OS on.
@@ -110,5 +114,5 @@ Advantages of Virtualisation:
 3. Cost savings
    - Runs VMs within a "guest" environment which is isolated from the underlying hardware 
    - Only need enough hardware to run one VM at a time 
-   
+
 
